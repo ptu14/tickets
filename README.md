@@ -9,7 +9,7 @@
     - Przycisk do wysyłania formularza (type: submit)
     > Upewnij się, że używasz semantycznych elementów HTML, takich jak `<form>`, `<fieldset>`, `<label>` i `<input>`.
 
-    > Szerokość formularza `640px`, wycentrowany na stronie. Użyj fontu `Arial` i koloru `#0d6efd`.
+    > Szerokość formularza `640px`, wycentrowany na stronie. Użyj fontu `Arial` oraz koloru `#0d6efd`.
 
 
 1. W pliku `styles.css` na branchu "formularz-rejestracji" zastosuj odpowiednie style CSS, dbając o estetykę i użyteczność formularza.
