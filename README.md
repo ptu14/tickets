@@ -2,11 +2,11 @@
  1. Zacommituj i wypchnij zmiany do repozytorium na **GitHub**.
  1. Stwórz nowego brancha o nazwie "formularz-rejestracji" i przełącz się na niego.
  1. W pliku `index.html` na branchu "formularz-rejestracji" stwórz formularz rejestracji z następującymi polami:
-    - Imię (typ: text)
-    - Nazwisko (typ: text)
-    - Adres e-mail (typ: email)
-    - Data urodzenia (typ: date)
-    - Przycisk do wysyłania formularza (typ: submit)
+    - Imię (type: text)
+    - Nazwisko (type: text)
+    - Adres e-mail (type: email)
+    - Data urodzenia (type: date)
+    - Przycisk do wysyłania formularza (type: submit)
     > Upewnij się, że używasz semantycznych elementów HTML, takich jak `<form>`, `<fieldset>`, `<label>` i `<input>`.
 
     > Szerokość formularza `640px`, wycentrowany na stronie. Użyj fontu `Arial` i koloru `#0d6efd`.
