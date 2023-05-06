@@ -14,4 +14,4 @@
 
 1. W pliku `styles.css` na branchu "formularz-rejestracji" zastosuj odpowiednie style CSS, dbając o estetykę i użyteczność formularza.
 1. Zacommituj i wypchnij zmiany na branchu "formularz-rejestracji" do repozytorium na **GitHub**.
-1. Utwórz pull request z brancha "formularz-rejestracji" do głównego brancha repozytorium i poproś nauczyciela o sprawdzenie.
+1. Utwórz pull request z brancha "formularz-rejestracji" do głównego brancha repozytorium i poproś trenera o sprawdzenie.
