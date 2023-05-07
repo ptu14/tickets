@@ -1,4 +1,7 @@
 ## Zadanie 1 
+1. Stwórz nowe repozytorium na GitHub i sklonuj je na swoim lokalnym komputerze.
+1. Utwórz plik index.html i styles.css w głównym katalogu repozytorium.
+1. W pliku index.html dodaj podstawowy szablon HTML5 z odpowiednim tytułem strony, np. "Rejestracja na koncert".
 1. Podłącz plik CSS do pliku HTML za pomocą elementu `<link>`.
 1. Zacommituj i wypchnij zmiany do repozytorium na **GitHub**.
 1. Stwórz nowego brancha o nazwie "formularz-rejestracji" i przełącz się na niego.
