@@ -30,3 +30,12 @@
    - Zgoda na przetwarzanie danych (typ: checkbox)
    > tekst zgody: "Wyrażam zgodę na przetwarzanie moich danych osobowych w celu rejestracji na koncert."
 1. Powtórz kroki z zacommitowaniem i wypchnieciem zmian z zadania 1.
+
+## Zadanie 3
+
+### Dostosuj formularz do widoku z `zadanie3.png` i dodaj accessibility
+
+1. Dodaj background, wykorzystaj [ten](http://t0.gstatic.com/licensed-image?q=tbn:ANd9GcRSWG4lk-BWHcmRMfh9R0mKFugRj3tqNG29pXhCgDZWzRkGEnO2W5LZfoo_TDG7ufk0gICTd3SP2x-dXwUP--Y) lub własny obrazek.
+1. Dodaj efekt blur do formularza. Wykorzystaj  `background: rgba(255,255,255,.7)` oraz `backdrop-filter: blur(8px)`
+1. Dodaj stan `hover` do przycisku, zmien mu kolor na `#0b5ed7`
+1. Dodaj stan `focus-visible` do inputow. Powinny mieć w tym stanie obramowanie `2px` koloru `#0b5ed7`. Możesz użyć `outline`, `border` lub `box-shadow`. Zastanów się, czym różni się `focus-visible` od `focus`?
